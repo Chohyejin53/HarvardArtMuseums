@@ -40,7 +40,7 @@ $(function(){
                     if (records[i].hasOwnProperty('poster')) {
                         var currentposter = records[i].poster.imageurl;
                     } else {
-                        var currentposter = '"../images/preparing_img.svg"';
+                        var currentposter = '"../images/preparing_Img.svg"';
                     }
                     
                     var currentTitle = records[i].title;
